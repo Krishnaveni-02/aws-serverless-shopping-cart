@@ -49,9 +49,9 @@
     {
         "category": "fruit",
         "createdDate": "2017-03-17T03:06:53 -01:00",
-        "description": "Reprehenderit aliquip consequat quis excepteur et et esse exercitation adipisicing dolore nulla consequat.",
+        "description": "Organic Box 100 & Natural and Premium Healthy Mix Drt Fruits and Nuts 200gm",
         "modifiedDate": "2019-11-25T12:32:49 -01:00",
-        "name": "fresh prunes",
+        "name": "Organic Dry Fruits",
         "package": {
             "height": 736,
             "length": 567,
@@ -61,22 +61,22 @@
         "pictures": [
             "http://placehold.it/32x32"
         ],
-        "price": 2,
+        "price": 219,
         "productId": "a6dd7187-40b6-4cb5-b73c-aecd655c6d9a",
         "tags": [
-            "nisi",
-            "quis",
-            "sint",
-            "adipisicing",
-            "pariatur"
+            "Organic",
+            "dry",
+            "fruits",
+            "200gm",
+            "natural"
         ]
     },
     {
         "category": "vegetable",
         "createdDate": "2018-07-17T02:14:55 -02:00",
-        "description": "Minim qui elit dolor est commodo excepteur ea voluptate eu dolor culpa magna.",
+        "description": "Fresh Tomatoes 2kg Pack",
         "modifiedDate": "2019-09-05T03:36:34 -02:00",
-        "name": "packaged tomatoes",
+        "name": "Packaged tomatoes",
         "package": {
             "height": 4,
             "length": 756,
@@ -89,19 +89,18 @@
         "price": 97,
         "productId": "c0fbcc6b-7a70-41ac-aac4-f8fd237dc62e",
         "tags": [
-            "dolor",
-            "officia",
-            "fugiat",
-            "officia",
-            "voluptate"
+            "Fresh",
+            "tomato",
+            "tomatoes",
+            "2"
         ]
     },
     {
         "category": "vegetable",
         "createdDate": "2017-07-25T12:00:11 -02:00",
-        "description": "Labore dolore velit mollit aute qui magna elit excepteur officia cupidatat ea ea aliqua.",
+        "description": "Unique Fresh Onion 3kg",
         "modifiedDate": "2019-10-04T06:32:14 -02:00",
-        "name": "fresh tomatoes",
+        "name": "Fresh Onions",
         "package": {
             "height": 881,
             "length": 252,
@@ -111,22 +110,21 @@
         "pictures": [
             "http://placehold.it/32x32"
         ],
-        "price": 144,
+        "price": 150,
         "productId": "cb40c919-033a-47d6-8d00-1d73e2df20fe",
         "tags": [
-            "nostrud",
-            "elit",
-            "Lorem",
-            "occaecat",
-            "duis"
+            "onion",
+            "3kg",
+            "fresh",
+            "onions"
         ]
     },
     {
         "category": "vegetable",
         "createdDate": "2017-01-07T05:28:03 -01:00",
-        "description": "Ad eiusmod cupidatat duis dolor mollit labore mollit eu.",
+        "description": "Grade A Quality - Fresh Garlic - Whole - Cleaned & Sorted - 250 Grams",
         "modifiedDate": "2019-04-03T10:36:25 -02:00",
-        "name": "fresh lettuce",
+        "name": "Fresh Garlic",
         "package": {
             "height": 813,
             "length": 932,
@@ -136,14 +134,12 @@
         "pictures": [
             "http://placehold.it/32x32"
         ],
-        "price": 51,
+        "price": 149,
         "productId": "12929eb9-3eb7-4217-99e4-1a39c39217b6",
         "tags": [
-            "ad",
-            "ipsum",
-            "est",
-            "eiusmod",
-            "duis"
+            "Garlic",
+            "clean",
+            "250 grams"
         ]
     },
     {
